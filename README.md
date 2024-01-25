@@ -195,3 +195,37 @@ PoseNet
 
 ```
   <br>
+5. Issue
+
+```
+* IOS
+Downgrading TensorFlowLiteC to 2.2.0
+
+Downgrade your TensorFlowLiteC in /ios/Podfile.lock to 2.2.0
+run pod install in your /ios folder
+```
+  <br>
+6. Source code
+
+```
+please checkout repo github
+https://github.com/Hiteshthecoder/Realtime-Object-Detection-Flutter
+```
+  * <a href='https://github.com/Hiteshthecoder/Realtime-Object-Detection-Flutter'>https://github.com/Hiteshthecoder/Realtime-Object-Detection-Flutter</a>
+
+  ## :bulb: Demo
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image1.jpg" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image2.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image3.jpg" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image4.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image5.jpg" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image6.jpg" width="250"></td>
+  </tr>
+ </table>
